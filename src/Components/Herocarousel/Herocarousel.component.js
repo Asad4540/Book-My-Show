@@ -11,7 +11,9 @@ const HeroCarousel = () => {
         infinite: true,
         speed: 500,
         slidesToShow: 1,
-        slidesToScroll: 1
+        slidesToScroll: 1,
+        nextArrow:<nextArrow/>,
+        prevArrow:<prevArrow/>
     };
 
     const settingsLg = {
@@ -23,7 +25,9 @@ const HeroCarousel = () => {
         infinite: true,
         speed: 500,
         slidesToShow: 1,
-        slidesToScroll: 1
+        slidesToScroll: 1,
+        nextArrow:<nextArrow/>,
+        prevArrow:<prevArrow/>
     };
 
     const images = [
