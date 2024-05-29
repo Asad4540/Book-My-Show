@@ -1,3 +1,4 @@
+
 import React from "react";
 
 
@@ -6,7 +7,7 @@ const NextArrow = () => {
         <>
             <div
                 className={props.className}
-                style={{ ...props.style, backgroundColor: "black" }}
+                style={{  ...props.style, backgroundColor: "black" }}
                 onClick={props.onClick}
             />
         </>
@@ -19,7 +20,7 @@ const PrevArrow = () => {
         <>
             <div
                 className={props.className}
-                style={{ ...props.style, backgroundColor: "black" }}
+                style={{  ...props.style, backgroundColor: "black" }}
                 onClick={props.onClick}
             />
         </>
