@@ -2,7 +2,7 @@
 // import { Route } from "react-router-dom";
 import './App.css';
 import DefaultHOC from "./HOC/Default.HOC";
-import Homepage from "./pages/home.page";
+import Homepage from "./pages/Home.page";
 
 
 
