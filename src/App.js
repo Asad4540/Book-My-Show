@@ -4,9 +4,6 @@ import './App.css';
 import DefaultHOC from "./HOC/Default.HOC";
 import Homepage from "./pages/Home.page";
 
-
-
-
 function App() {
   return (
     <>
