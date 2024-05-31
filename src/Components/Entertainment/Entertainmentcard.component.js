@@ -57,7 +57,7 @@ const EntertainmentCardSlider = () => {
         slidesToShow: 4,
         slidesToScroll: 4,
         InitialSlide: 0
-    }
+    };
 
     return (
         <>
