@@ -38,10 +38,10 @@ const NavLg = () => {
         <>
             <div className="container mx-auto px-4 flex items-center justify-between">
                 <div className="flex items-center w-1/2">
-                    <div className="w-12 h-12">
-                        <img src={myimg} alt="logo" className=" my-2 h-8 " />
+                    <div className="">
+                        <img src={myimg} alt="logo" className=" my-2 h-10 mr-10 " />
                     </div>
-                    <div className="w-full flex items-center bg-white gap-3 px-2 py-1 rounded-sm">
+                    <div className="w-full flex items-center bg-white gap-3 px-2 py-1 ml-2 rounded-sm">
                         <BiSearch />
                         <input type="search" className="w-full outline-none" placeholder="Search Events,Movies & Sports"></input>
                     </div>

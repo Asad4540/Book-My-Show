@@ -31,11 +31,11 @@ const HeroCarousel = () => {
     };
 
     const images = [
-        "https://images.unsplash.com/photo-1708110874093-eae1241d1b74?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1707985665955-aea0b64bc8a5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1682686581854-5e71f58e7e3f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://plus.unsplash.com/premium_photo-1663932464193-e03df3c78f63?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1707343843437-caacff5cfa74?q=80&w=1375&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "https://miro.medium.com/v2/resize:fit:1400/1*Subc1iyVVKLRT-Wolmj_-A.jpeg",
+        "https://images.mid-day.com/images/images/2023/sep/ranbirkapooranimalposter_d.jpg",
+        "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2024/01/03/12th_fail_0.png",
+        "https://static.toiimg.com/photo/msid-65673119/65673119.jpg",
+        "https://www.bollywoodhungama.com/wp-content/uploads/2017/04/Half-Girlfriend-1-9.jpg"
     ]
 
     return (

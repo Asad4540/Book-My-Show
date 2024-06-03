@@ -60,9 +60,13 @@ export const Premier = () => {
 
     return (
         <>
+            <div className="pl-4 mb-1">
+            <p className="text-3xl font-bold text-slate-50">Premieres</p>
+            <p className=" text-slate-50">Brand new realses every Friday</p>
+            </div>
             <Slider {...settings}>
                 {PremierImages.map((image) => (
-                    <Poster {...image} />
+                    <Poster {...image} isDarkMode={true} />
                 ))}
             </Slider>
         </>);
