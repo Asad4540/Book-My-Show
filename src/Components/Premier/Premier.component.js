@@ -5,12 +5,12 @@ import Poster from "../Poster/Poster.component";
 
 
 export const Premier = () => {
-    const setting = {
+    const settings = {
         infinite: true,
-        autooplay: false,
-        slideToShow: 5,
-        sidesToScroll: 2,
-        InitialSlide: 0
+        autoplay: false,
+        slidesToShow: 5,
+        slidesToScroll: 3,
+        InitialSlide: 0,
     };
 
     const PremierImages = [
@@ -60,7 +60,7 @@ export const Premier = () => {
 
     return (
         <>
-            <Slider {...setting}>
+            <Slider {...settings}>
                 {PremierImages.map((image) => (
                     <Poster {...image} />
                 ))}

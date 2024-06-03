@@ -3,9 +3,9 @@ import React from "react";
 const Poster = (props) => {
     return (
         <>
-            <div className="flex flex-col items-start gap-2 px-3">
-                <div className="h-80">
-                    <img src={props.src} alt={props.title} />
+            <div className="flex flex-col items-start px-3 h-96 ">
+                <div className="">
+                    <img className="h-80" src={props.src} alt={props.title} />
                 </div>
                 <h3 className={`text-lg font-bold ${props.isDarkMode ? 'text-white' : 'text-gray-700'
                     }`}

@@ -6,7 +6,7 @@ const Homepage = () => {
     return (
         <>
             <div className="container mx-auto px-4">
-                <h1 className="text-2xl font-bold text-gray-800">The Best of Entertainment
+                <h1 className="text-2xl font-bold text-gray-800 mb-5 ml-3 mt-12">The Best of Entertainment
                 </h1>
                 <EntertainmentCardSlider /> <br></br>
                 <Premier/>
