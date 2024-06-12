@@ -32,10 +32,11 @@ const HeroCarousel = () => {
 
     const images = [
         "https://miro.medium.com/v2/resize:fit:1400/1*Subc1iyVVKLRT-Wolmj_-A.jpeg",
-        "https://images.mid-day.com/images/images/2023/sep/ranbirkapooranimalposter_d.jpg",
-        "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2024/01/03/12th_fail_0.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09NSaUdZZJw3V6g5FCoHNplXi-VVPkQXiIg&s",
         "https://static.toiimg.com/photo/msid-65673119/65673119.jpg",
-        "https://www.bollywoodhungama.com/wp-content/uploads/2017/04/Half-Girlfriend-1-9.jpg"
+        "https://www.bollywoodhungama.com/wp-content/uploads/2017/04/Half-Girlfriend-1-9.jpg",
+        "https://c8.alamy.com/comp/F762X7/indian-bollywood-hindi-film-movie-poster-of-ek-tha-tiger-F762X7.jpg",
+        "https://indiaglitz-media.s3.amazonaws.com/telugu/home/12th-fail-review-1.jpg"
     ]
 
     return (
