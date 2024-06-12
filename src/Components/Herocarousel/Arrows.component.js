@@ -2,7 +2,7 @@
 import React from "react";
 
 
-const NextArrow = () => {
+export const NextArrow = (props) => {
     return (
         <>
             <div
@@ -15,11 +15,11 @@ const NextArrow = () => {
 };
 
 
-const PrevArrow = () => {
+export const PrevArrow = (props) => {
     return (
         <>
             <div
-                className={props.className}
+                className= {props.className}
                 style={{  ...props.style, backgroundColor: "black" }}
                 onClick={props.onClick}
             />
