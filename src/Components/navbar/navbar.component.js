@@ -53,7 +53,7 @@ const NavLg = () => {
                         Pune
                         <BiChevronRight />
                     </span>
-                    <button className=" bg-red-600 rounded text-white text-sm rounded px-2 py-1 ">Sign in</button>
+                    <button className=" bg-red-500 rounded text-white text-sm rounded px-2 py-1 font-semibold hover:bg-red-600">Sign in</button>
                     <div className="text-white w-8 h-8">
                         <BiMenu className="h-full w-full" />
                     </div>

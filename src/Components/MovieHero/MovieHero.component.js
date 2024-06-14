@@ -38,7 +38,7 @@ const MovieHero = () => {
                 <div className="absolute z-30 left-[35rem] top-[10rem]">
                     <div className="bg-gray-800 px-2 py-3 rounded-xl flex">
                         <p className="text-gray-50 font-semibold ml-2 flex items-center"> <BiSolidStar style={{ color: "red", marginRight: "10px" }} /> 8.2/10 (25.6K Votes) <BiChevronRight /> </p>
-                        <button className="bg-slate-50 px-2 py-1 rounded-md ml-20 mr-5 font-semibold">Rate Now</button>
+                        <button className="bg-slate-50 px-2 py-1 rounded-md ml-20 mr-5 font-semibold hover:bg-gray-300 ">Rate Now</button>
                     </div>
                 </div>
 
@@ -57,7 +57,7 @@ const MovieHero = () => {
 
                 <div className="absolute z-30 left-[35rem] top-[21rem]">
                     <div>
-                    <button className="bg-red-500 text-slate-50 text-l font-semibold px-8 py-3 mr-5 rounded-xl ">Book Tickets</button>
+                    <button className="bg-red-500 text-slate-50 text-l font-semibold px-8 py-3 mr-5 rounded-xl hover:bg-red-600 ">Book Tickets</button>
                     </div>
                 </div>
 
