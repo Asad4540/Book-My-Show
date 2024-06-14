@@ -33,11 +33,12 @@ const HeroCarousel = () => {
 
     const images = [
         "https://miro.medium.com/v2/resize:fit:1400/1*Subc1iyVVKLRT-Wolmj_-A.jpeg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09NSaUdZZJw3V6g5FCoHNplXi-VVPkQXiIg&s",
-        "https://static.toiimg.com/photo/msid-65673119/65673119.jpg",
-        "https://www.bollywoodhungama.com/wp-content/uploads/2017/04/Half-Girlfriend-1-9.jpg",
-        "https://c8.alamy.com/comp/F762X7/indian-bollywood-hindi-film-movie-poster-of-ek-tha-tiger-F762X7.jpg",
-        "https://indiaglitz-media.s3.amazonaws.com/telugu/home/12th-fail-review-1.jpg"
+        "https://assets-in.bmscdn.com/discovery-catalog/events/et00070957-dtrqeqaamz-landscape.jpg",
+        "https://assets-in.bmscdn.com/discovery-catalog/events/et00037298-jajzylmjkv-landscape.jpg",
+        "https://assets-in.bmscdn.com/discovery-catalog/events/et00122562-atkgmgeywy-landscape.jpg",
+        "https://indiaglitz-media.s3.amazonaws.com/telugu/home/12th-fail-review-1.jpg",
+        "https://assets-in.bmscdn.com/discovery-catalog/events/et00323848-uwhyegleds-landscape.jpg",
+        "https://assets-in.bmscdn.com/discovery-catalog/events/et00006184-gprrkscmbw-landscape.jpg"
     ]
 
     return (
@@ -70,78 +71,6 @@ const HeroCarousel = () => {
 }
 
 export default HeroCarousel;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

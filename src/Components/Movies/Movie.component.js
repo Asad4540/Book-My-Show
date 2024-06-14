@@ -82,6 +82,9 @@ export const Movie = () => {
                     <Poster {...image} />
                 ))}
             </Slider>
+            <img src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-1440,h-120/stream-leadin-web-collection-202210241242.png"
+            className="mt-2"/>
+
         </>);
 };
 

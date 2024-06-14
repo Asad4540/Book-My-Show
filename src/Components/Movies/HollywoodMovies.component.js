@@ -68,24 +68,26 @@ export const HollywoodMovies = () => {
             title: "Ghostbusters: Afterlife",
             subtitle: "English"
         }
-        
-        
-        
-        
+
+
+
+
     ]
 
     return (
         <>
             <div className="pl-4 mb-1 mt-6">
-            <p className="text-2xl font-bold mb-5 ">Hollywood Movies</p>
+                <p className="text-2xl font-bold mb-5 ">Hollywood Movies</p>
             </div>
             <Slider {...settings}>
                 {PremierImages.map((image) => (
                     <Poster {...image} />
                 ))}
             </Slider>
-        </>);
+        </>
+    );
 };
+
 
 
 
